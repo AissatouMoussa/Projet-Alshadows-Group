@@ -3,7 +3,7 @@ import {Navbar, Card} from "./components/Navbar"
 import "./styles/App.css"
 
 const SideMenu = () =>{
-  const links = ["Légumes", "Fruits", "Produits frais", "Epicerie", "Boissons"]
+  const links = ["Lenterne", "", "Montre", "Carte",]
   return(
   <div className="col-sm-2 sidebar">
     <ul>
