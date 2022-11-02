@@ -73,7 +73,7 @@ export const Navbar = () =>{
         {/* modal*/}
       </div>
     );
-  };
+  };  
 
   export const List = () => {
     return(
